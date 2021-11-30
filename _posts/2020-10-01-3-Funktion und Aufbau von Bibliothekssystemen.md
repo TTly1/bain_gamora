@@ -1,5 +1,5 @@
 ---
-title: "Funktion und Aufbau von Archivsystemen (2/2)"
+title: "Funktion und Aufbau von Archivsystemen"
 date: 2021-10-08
 ---
 
