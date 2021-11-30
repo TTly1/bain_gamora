@@ -3,7 +3,7 @@ title: "Repository-Software für Publikationen und Forschungsdaten"
 date: 2021-11-19
 ---
 
-###Archive system vs. Library System
+### Archive system vs. Library System
 It was also discussed the differences between the archive system vs. library system. 
 
 Here are the main differences: 
@@ -11,9 +11,9 @@ Library: Library system record media, which are mostly published material, and p
 
 Archive: Archive system records unique items and primary source material directly from the source. The items are mostly not published materials (and items can contain restricted information).  They are recorded by the EDA guidelines, and soon to be replaced by the Records in Content (RIC).  
 
-###Repository-Software for publications and research data
+### Repository-Software for publications and research data
 
-####Repository: 
+#### Repository: 
 In the digital age, a repository is like an archive, where digital objects are stored, and managed. They are usually open for the public (or to a specific group which are connected to the specific content). 
 
 #### Publications: 
