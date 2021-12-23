@@ -1,4 +1,4 @@
 ---
-title: "Übung: Import und Expoert ArchivesSpace"
+title: "Übung: Import und Export ArchivesSpace"
 date: 2021-11-05
 ---
