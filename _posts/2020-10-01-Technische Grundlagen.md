@@ -1,6 +1,6 @@
 ---
 title: "Technische Grundlagen"
-date: 2021-09-27
+date: 2021-09-28
 ---
 Something I am just realizing, write an entry in your diary as soon as possible. Unfortunately, I have forgotten a lot about the first lecture we had - meaning I had to re-watch it and it cost me twice the time. So lesson learned!  
 
