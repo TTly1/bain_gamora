@@ -31,6 +31,6 @@ Because it was developed in the 90s and revised in 2000 (meaning 21 years ago), 
 there might be data, which can also be understood in a context. The tectonics are only one-dimenional. No multiple allocation possible, and last, the ISAD(G) does not provide any specification on how to digitalize or for long-term archiving. 
 
 
-1: https://swisscovery.slsp.ch/discovery/search?vid=41SLSP_NETWORK:VU1_UNION
-2: https://exlibrisgroup.com/products/alma-library-services-platform/
-3: https://archiveshub.jisc.ac.uk/isadg/
+1: (https://swisscovery.slsp.ch/discovery/search?vid=41SLSP_NETWORK:VU1_UNION)
+2: (https://exlibrisgroup.com/products/alma-library-services-platform/)
+3: (https://archiveshub.jisc.ac.uk/isadg/)
