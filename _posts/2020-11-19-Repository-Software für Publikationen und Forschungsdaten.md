@@ -3,7 +3,7 @@ title: "Repository-Software für Publikationen und Forschungsdaten"
 date: 2021-11-19
 ---
 
-###Archive system vs. Library System
+### Archive system vs. Library System
 It was also discussed the differences between the archive system vs. library system. 
 
 Here are the main differences: 
