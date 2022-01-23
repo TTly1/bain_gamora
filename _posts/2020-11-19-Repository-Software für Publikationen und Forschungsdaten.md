@@ -32,5 +32,5 @@ The good thing about DSpace is that no installation was needed. We used the onli
 
 In class, we created together sub-community with a collection. As a second step, we added a recourse to the collection. The design of the DSpace is in contrast to other systems we already interacted with, modern - but also here I found the usability rather complicated. For example, there is more than one workflow to add a recourse to the collection (and I don’t find it very intuitive). But I found it good, that there are many options for individualization which users can set according to their needs. 
 
-1.(https://www.researchgate.net/publication/260481532_Research_publications_Need_for_Academicians#:~:text=Publications%20make%20scientific%20information%20publically,Popular%20and%20General%20Interest%20Magazines.)
-2.(https://www.forschungsdaten.info/praxis-
+1.( https://www.researchgate.net/publication/260481532_Research_publications_Need_for_Academicians#:~:text=Publications%20make%20scientific%20information%20publically,Popular%20and%20General%20Interest%20Magazines. )
+2.https://www.forschungsdaten.info/praxis-
