@@ -1,6 +1,6 @@
 ---
 title: "Übung: OAI-PMH-Schnittstelle"
-date: 2021-11-05
+date: 2021-11-19
 ---
 
 The problem I had with this exercise was the access to the server on which the DSpace demo version is hosted (since it was not available Saturday after the lecture, meaning it took motivation to do it later). Meaning also I had to re-do the steps from the lecture (building the communication, collection, and publishing the document in the collection). I won’t lie, I needed to work with the video of the last lecture, I wouldn't have been able to do it on my own. 
