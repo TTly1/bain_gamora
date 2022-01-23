@@ -33,7 +33,7 @@ The second system we looked at was the Records in Context (RiC) which is current
 1. https://www.geeksforgeeks.org/difference-between-vertical-search-and-horizontal-search/
 2. https://en.wikipedia.org/wiki/Deutsches_Literaturarchiv_Marbach
 3. https://www.effective-webwork.de/referenzen-case-studies/dla-case-study/
-4. https://www.intechopen.com/chapters/71884
+4. (https://www.intechopen.com/chapters/71884)
 
 
 
