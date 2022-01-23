@@ -34,6 +34,6 @@ there might be data, which can also be understood in a context. The tectonics is
 The usability for a new joiner is very overwhelming. Many input fields and options (a bit of an overload). Maybe it would be better to create a clear process with a progress bar? Most of the fields are not required input fields, so it would maybe be best to hide them completely? Also, it would be interesting to know, if a user can save a view, and have it as default with only the field he/she uses?
 
 
-1. ( https://swisscovery.slsp.ch/discovery/search?vid=41SLSP_NETWORK:VU1_UNION )
-2. ( https://exlibrisgroup.com/products/alma-library-services-platform/ )
-3. ( https://archiveshub.jisc.ac.uk/isadg/ )
+1.  https://swisscovery.slsp.ch/discovery/search?vid=41SLSP_NETWORK:VU1_UNION 
+2.  https://exlibrisgroup.com/products/alma-library-services-platform/ 
+3.  https://archiveshub.jisc.ac.uk/isadg/ 
