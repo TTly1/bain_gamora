@@ -26,14 +26,14 @@ The demonstration of the new catalogue (which can be also accessed with the link
 
 ## Linked Data
 
-We covered linked data in the semantic classes, so the term is not unfamiliar. However, I was curious to see the usage of linked data in BAIN. First, we got an introduction to the “Bibliographic Framework Initiative'' (BIBFRAME). Googling the web, to understand the link between BIBFRAME and linked data I found this sentence which gives a good summary: //“Within this entity-relation model, BIBFRAME is further modelled within RDF/XML in order to bring the model in-line with Semantic Web principles.”// [3]. BIBIFRAME was developed to replace MARC21, since it can no longer meet the demands the digital network has today. In my words I would say: the BIBFRAME will link all data from e.g. a book, making it more efficient to manage (if and when a change of let’s say a title is required). 
+We covered linked data in the semantic classes, so the term is not unfamiliar. However, I was curious to see the usage of linked data in BAIN. First, we got an introduction to the “Bibliographic Framework Initiative'' (BIBFRAME). Googling the web, to understand the link between BIBFRAME and linked data I found this sentence which gives a good summary: //“Within this entity-relation model, BIBFRAME is further modelled within RDF/XML in order to bring the model in-line with Semantic Web principles.”// [4]. BIBIFRAME was developed to replace MARC21, since it can no longer meet the demands the digital network has today. In my words I would say: the BIBFRAME will link all data from e.g. a book, making it more efficient to manage (if and when a change of let’s say a title is required). 
 
 The second system we looked at was the Records in Context (RiC) which is currently being developed (and which I had much more difficulty understanding). From what I understand, RiC is a conceptual model which has the aim to bring the different standards together (ISAD(G), ISAAR(CPF), and so on) to facilitate the management of electronic records. This can be done by using as seen in BIBIFRAME with the linked-data principle. Bringing also here, an advantage to managing the data. 
 
-https://www.geeksforgeeks.org/difference-between-vertical-search-and-horizontal-search/
-https://en.wikipedia.org/wiki/Deutsches_Literaturarchiv_Marbach
-https://www.effective-webwork.de/referenzen-case-studies/dla-case-study/
-https://www.intechopen.com/chapters/71884
+1. https://www.geeksforgeeks.org/difference-between-vertical-search-and-horizontal-search/
+2. https://en.wikipedia.org/wiki/Deutsches_Literaturarchiv_Marbach
+3. https://www.effective-webwork.de/referenzen-case-studies/dla-case-study/
+4. https://www.intechopen.com/chapters/71884
 
 
 
