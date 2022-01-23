@@ -37,5 +37,5 @@ The installation of ArchivSpace was not that “easy”. I somehow didn’t unde
 ArchivesSpace (more in the US) - not very used in Switzerland (here we use scopeArchiv) 
 ArchivesSpace is an open-source system, which also is easy and free to download, and the main reason why we used it.  It had the objective to showcase and the structure of the system and how it is used (to get a feeling of what metadata is needed etc.).
 
-1. ( https://bywatersolutions.com/news/kohacon12-koha-and-sru )
-2. ( http://www.openarchives.org/pmh/ )
+1. https://bywatersolutions.com/news/kohacon12-koha-and-sru 
+2. http://www.openarchives.org/pmh/ 
